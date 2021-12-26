@@ -1,6 +1,6 @@
 {
-  "parent": "Block/cube_all",
+  "parent": "block/cube_all",
   "textures": {
-    "all": "tutorialmod:Blocks/test_block"
+    "all": "tutorialmod:blocks/test_block"
   }
 }
