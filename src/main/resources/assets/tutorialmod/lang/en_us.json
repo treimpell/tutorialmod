@@ -1,3 +1,4 @@
 {
-  "item.tutorialmod.test_ingot": "Test Ingot"
+  "item.tutorialmod.test_ingot": "Test Ingot",
+  "block.tutorialmod.test:block": "Test Block"
 }
